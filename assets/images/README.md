@@ -1,0 +1,1 @@
+Add only images you created or have permission to use here. The optional hero artwork path is assets/images/rapunzel.png. You can also add tower.png and lanterns.png for future sections. The CSS fallback artwork keeps the page complete if these files are absent.
